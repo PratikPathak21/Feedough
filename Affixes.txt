@@ -1,0 +1,194 @@
+a-
+-a
+ab-
+abdomin(o)-
+-able
+abs-
+-ac
+ac-
+-acal
+acanth(o)-
+acar(o)-
+-acea
+-aceae
+-acean
+-aceous
+acet(o)-
+acid(o)-
+-acious
+acoust(o)-
+acr(o)-
+acryl(o)-
+actin(o)-
+-acusis
+-acy
+ad-
+-ad
+-ade
+aden(o)-
+adip(o)-
+-ado
+adren(o)-
+-ae
+-aemia
+aer(o)-
+af-
+afore-
+Afro-
+ag-
+-age
+-agogue
+-agra
+agro-
+-aholic
+-aire
+-akusis
+al-
+-al
+alb-
+aldo-
+-ales
+-algia
+algo-
+-alia
+-ality
+all(o)-
+alumin(o)-
+-ama
+ambi-
+amid(o)-
+amino-</a></td><td class="idx_text">The amine group, NH<sub class="in">2</sub>&mdash;.</td></tr>
+<tr><td class="idx_term"><a href="amnio-.html">amnio-</a></td><td class="idx_text">The amnion.</td></tr>
+<tr><td class="idx_term"><a href="amphi-.html">amph(i)-</a></td><td class="idx_text">Variously two, both, on both sides, or around.</td></tr>
+<tr><td class="idx_term"><a href="amylo-.html">amyl(o)-</a></td><td class="idx_text">Starch.</td></tr>
+<tr><td class="idx_term">-an</td><td class="idx_text">See <a href="../i/-ian.html">-ian</a></td></tr>
+<tr><td class="idx_term">an-</td><td class="idx_text">See <a href="../a/a-1.html">a-<sup class="hm">1</sup></a>, <a href="../a/ad-.html">ad-</a>, and <a href="../a/ana-.html">ana-</a></td></tr>
+<tr><td class="idx_term"><a href="-ana.html">-ana</a></td><td class="idx_text">Things associated with a person, place, or field of interest.</td></tr>
+<tr><td class="idx_term"><a href="ana-.html">an(a)-</a></td><td class="idx_text">Variously up, back, or again.</td></tr>
+<tr><td class="idx_term"><a href="-ance.html">-ance</a></td><td class="idx_text">A state or quality; a process or action.</td></tr>
+<tr><td class="idx_term">anchylo-</td><td class="idx_text">See <a href="../a/ankylo-.html">ankylo-</a></td></tr>
+<tr><td class="idx_term"><a href="-and.html">-and</a></td><td class="idx_text">A person or thing to be treated in a specified way.</td></tr>
+<tr><td class="idx_term"><a href="andro-.html">andr(o)-</a></td><td class="idx_text">Male or maleness.</td></tr>
+<tr><td class="idx_term"><a href="-androus.html">-androus</a></td><td class="idx_text">Maleness.</td></tr>
+<tr><td class="idx_term"><a href="-ane1.html">-ane<sup class="hm">1</sup></a></td><td class="idx_text">Saturated straight-chain (aliphatic) hydrocarbons.</td></tr>
+<tr><td class="idx_term"><a href="-ane2.html">-ane<sup class="hm">2</sup></a></td><td class="idx_text">Forming adjectives.</td></tr>
+<tr><td class="idx_term"><a href="anemo-.html">anem(o)-</a></td><td class="idx_text">The wind.</td></tr>
+<tr><td class="idx_term">-aneous</td><td class="idx_text">See <a href="../o/-ous.html">-ous</a></td></tr>
+<tr><td class="idx_term"><a href="angio-.html">angi(o)-</a></td><td class="idx_text">Blood or seed vessels.</td></tr>
+<tr><td class="idx_term"><a href="-angium.html">-angium</a></td><td class="idx_text">A container.</td></tr>
+<tr><td class="idx_term"><a href="anglo-.html">Anglo-</a></td><td class="idx_text">English or British; English or British and &#x2026;</td></tr>
+<tr><td class="idx_term"><a href="aniso-.html">anis(o)-</a></td><td class="idx_text">Unequal, asymmetrical, dissimilar.</td></tr>
+<tr><td class="idx_term"><a href="ankylo-.html">ankylo-</a></td><td class="idx_text">Bent or crooked; stiff or fixed.</td></tr>
+<tr><td class="idx_term"><a href="-ant.html">-ant</a></td><td class="idx_text">Forming adjectives and nouns.</td></tr>
+<tr><td class="idx_term"><a href="ante-.html">ante-</a></td><td class="idx_text">Before or preceding.</td></tr>
+<tr><td class="idx_term"><a href="antero-.html">antero-</a></td><td class="idx_text">Nearer the front of the body; forward in time.</td></tr>
+<tr><td class="idx_term"><a href="antho-.html">anth(o)-</a></td><td class="idx_text">A flower or flowers.</td></tr>
+<tr><td class="idx_term"><a href="anthraco-.html">anthrac(o)-</a></td><td class="idx_text">Coal or carbon; a carbuncle.</td></tr>
+<tr><td class="idx_term"><a href="anthropo-.html">anthrop(o)-</a></td><td class="idx_text">Human, or of a human being.</td></tr>
+<tr><td class="idx_term"><a href="-anthropy.html">-anthropy</a></td><td class="idx_text">Human, or humankind.</td></tr>
+<tr><td class="idx_term"><a href="anti-.html">ant(i)-</a></td><td class="idx_text">Acting against, resisting, or opposing something; the opposite or reverse of something.</td></tr>
+<tr><td class="idx_term">ap-</td><td class="idx_text">See <a href="../a/ad-.html">ad-</a></td></tr>
+<tr><td class="idx_term"><a href="apico-.html">apic(o)-</a></td><td class="idx_text">A point or apex.</td></tr>
+<tr><td class="idx_term"><a href="apo-.html">apo-</a></td><td class="idx_text">Away from; separate from.</td></tr>
+<tr><td class="idx_term"><a href="apres-.html">apr&egrave;s-</a></td><td class="idx_text">A period following some activity.</td></tr>
+<tr><td class="idx_term"><a href="aqua-.html">aqua-</a></td><td class="idx_text">Water.</td></tr>
+<tr><td class="idx_term">ar-</td><td class="idx_text">See <a href="../a/ad-.html">ad-</a></td></tr>
+<tr><td class="idx_term"><a href="-ar1.html">-ar<sup class="hm">1</sup></a></td><td class="idx_text">Forming adjectives.</td></tr>
+<tr><td class="idx_term"><a href="-ar2.html">-ar<sup class="hm">2</sup></a></td><td class="idx_text">Forming nouns.</td></tr>
+<tr><td class="idx_term"><a href="arachno-.html">arachn(o)-</a></td><td class="idx_text">A spider or spiders.</td></tr>
+<tr><td class="idx_term">-arama</td><td class="idx_text">See <a href="../o/-orama.html">-orama</a></td></tr>
+<tr><td class="idx_term"><a href="arbori-.html">arbor(i)-</a></td><td class="idx_text">A tree or trees.</td></tr>
+<tr><td class="idx_term">-arch</td><td class="idx_text">See <a href="../a/-archy.html">-archy</a></td></tr>
+<tr><td class="idx_term"><a href="arch-.html">arch-</a></td><td class="idx_text">Chief; principal; pre-eminent of its kind.</td></tr>
+<tr><td class="idx_term"><a href="archaeo-.html">archaeo-</a></td><td class="idx_text">Ancient or prehistoric times.</td></tr>
+<tr><td class="idx_term">arche-</td><td class="idx_text">See <a href="../a/arch-.html">arch-</a></td></tr>
+<tr><td class="idx_term"><a href="-archy.html">-archy</a></td><td class="idx_text">Government; rule of a particular type; a chief or ruler.</td></tr>
+<tr><td class="idx_term"><a href="-ard.html">-ard</a></td><td class="idx_text">Forming nouns.</td></tr>
+<tr><td class="idx_term"><a href="areo-.html">areo-</a></td><td class="idx_text">The planet Mars.</td></tr>
+<tr><td class="idx_term"><a href="argento-.html">argent(o)-</a></td><td class="idx_text">Silver.</td></tr>
+<tr><td class="idx_term"><a href="-arian.html">-arian</a></td><td class="idx_text">Forming adjectives and corresponding nouns.</td></tr>
+<tr><td class="idx_term"><a href="-arious.html">-arious</a></td><td class="idx_text">Connected with; pertaining to.</td></tr>
+<tr><td class="idx_term"><a href="-arium.html">-arium</a></td><td class="idx_text">A place or container connected with, or employed for, some purpose.</td></tr>
+<tr><td class="idx_term">-aroo</td><td class="idx_text">See <a href="../e/-eroo.html">-eroo</a></td></tr>
+<tr><td class="idx_term"><a href="arseno-.html">arsen(o)-</a></td><td class="idx_text">Arsenic.</td></tr>
+<tr><td class="idx_term">-art</td><td class="idx_text">See <a href="../a/-ard.html">-ard</a></td></tr>
+<tr><td class="idx_term"><a href="arterio-.html">arteri(o)-</a></td><td class="idx_text">An artery.</td></tr>
+<tr><td class="idx_term"><a href="arthro-.html">arthr(o)-</a></td><td class="idx_text">A joint.</td></tr>
+<tr><td class="idx_term"><a href="-ary1.html">-ary<sup class="hm">1</sup></a></td><td class="idx_text">Forming nouns.</td></tr>
+<tr><td class="idx_term"><a href="-ary2.html">-ary<sup class="hm">2</sup></a></td><td class="idx_text">Forming adjectives.</td></tr>
+<tr><td class="idx_term">as-</td><td class="idx_text">See <a href="../a/ad-.html">ad-</a></td></tr>
+<tr><td class="idx_term"><a href="asco-.html">asc(o)-</a></td><td class="idx_text">A bag or sac.</td></tr>
+<tr><td class="idx_term"><a href="-ase.html">-ase</a></td><td class="idx_text">An enzyme.</td></tr>
+<tr><td class="idx_term"><a href="-asis.html">-asis</a></td><td class="idx_text">A disease or other medical condition.</td></tr>
+<tr><td class="idx_term"><a href="-ast.html">-ast</a></td><td class="idx_text">A person connected with a pursuit or activity.</td></tr>
+<tr><td class="idx_term"><a href="-aster.html">-aster</a></td><td class="idx_text">Inferior; a poor imitation.</td></tr>
+<tr><td class="idx_term"><a href="astro-.html">astr(o)-</a></td><td class="idx_text">A star or other celestial body; outer space; star-shaped.</td></tr>
+<tr><td class="idx_term">at-</td><td class="idx_text">See <a href="../a/ad-.html">ad-</a></td></tr>
+<tr><td class="idx_term">-ata</td><td class="idx_text">See <a href="../a/-a2.html">-a<sup class="hm">2</sup></a></td></tr>
+<tr><td class="idx_term">-atable</td><td class="idx_text">See <a href="../a/-ate3.html">-ate<sup class="hm">3</sup></a></td></tr>
+<tr><td class="idx_term"><a href="-ate1.html">-ate<sup class="hm">1</sup></a></td><td class="idx_text">Forming nouns.</td></tr>
+<tr><td class="idx_term"><a href="-ate2.html">-ate<sup class="hm">2</sup></a></td><td class="idx_text">Forming adjectives.</td></tr>
+<tr><td class="idx_term"><a href="-ate3.html">-ate<sup class="hm">3</sup></a></td><td class="idx_text">Forming verbs.</td></tr>
+<tr><td class="idx_term">-ateria</td><td class="idx_text">See <a href="../t/-teria.html">-teria</a></td></tr>
+<tr><td class="idx_term"><a href="athero-.html">ather(o)-</a></td><td class="idx_text">An atheroma.</td></tr>
+<tr><td class="idx_term"><a href="-athon.html">-athon</a></td><td class="idx_text">An event long in duration, usually for fund-raising purposes.</td></tr>
+<tr><td class="idx_term"><a href="-ati.html">-ati</a></td><td class="idx_text">Groups of people.</td></tr>
+<tr><td class="idx_term"><a href="-atic.html">-atic</a></td><td class="idx_text">Forming adjectives, and some nouns.</td></tr>
+<tr><td class="idx_term"><a href="-atile.html">-atile</a></td><td class="idx_text">Possibility, potential, or ability.</td></tr>
+<tr><td class="idx_term"><a href="-ation.html">-ation</a></td><td class="idx_text">An action, or an instance of an action.</td></tr>
+<tr><td class="idx_term"><a href="-ative.html">-ative</a></td><td class="idx_text">Characteristic or predisposed.</td></tr>
+<tr><td class="idx_term">-ator</td><td class="idx_text">See <a href="../o/-or1.html">-or<sup class="hm">1</sup></a></td></tr>
+<tr><td class="idx_term">-atory</td><td class="idx_text">See <a href="../o/-ory1.html">-ory<sup class="hm">1</sup></a> and <a href="../o/-ory2.html">-ory<sup class="hm">2</sup></a></td></tr>
+<tr><td class="idx_term"><a href="atto-.html">atto-</a></td><td class="idx_text">In units of measurement, a factor of 10<sup>-18</sup>.</td></tr>
+<tr><td class="idx_term"><a href="audio-.html">audi(o)-</a></td><td class="idx_text">Hearing or sound.</td></tr>
+<tr><td class="idx_term"><a href="auri-.html">aur(i)-</a></td><td class="idx_text">Gold.</td></tr>
+<tr><td class="idx_term"><a href="austro-1.html">Austro-<sup class="hm">1</sup></a></td><td class="idx_text">Austria; Austria and &#x2026;</td></tr>
+<tr><td class="idx_term"><a href="austro-2.html">Austr(o)-<sup class="hm">2</sup></a></td><td class="idx_text">Australia; Australia and &#x2026;; southern.</td></tr>
+<tr><td class="idx_term"><a href="auto-1.html">aut(o)-<sup class="hm">1</sup></a></td><td class="idx_text">Self; oneself; by itself.</td></tr>
+<tr><td class="idx_term"><a href="auto-2.html">auto-<sup class="hm">2</sup></a></td><td class="idx_text">An automobile or motor vehicle.</td></tr>
+<tr><td class="idx_term"><a href="auxo-.html">aux(o)-</a></td><td class="idx_text">Growth or increase.</td></tr>
+<tr><td class="idx_term"><a href="avi-.html">avi-</a></td><td class="idx_text">A bird or birds; flight.</td></tr>
+<tr><td class="idx_term"><a href="axo-.html">axo-</a></td><td class="idx_text">An axis.</td></tr>
+<tr><td class="idx_term"><a href="azo-.html">az(o)-</a></td><td class="idx_text">Nitrogen; the chemical radical -N=N-.</td></tr>
+<tr><td class="idx_term">-azole</td><td class="idx_text">See <a href="../o/-ole1.html">-ole<sup class="hm">1</sup></a></td></tr>
+
+
+
+
+
+bacill-
+-bacter
+bacteri(o)-
+baro-
+basi-
+basidio-
+bathy-
+be-
+bene-
+benz(o)-
+bi-
+biblio-
+bili-
+-bility
+bin-
+bio-
+-biosis
+bis-
+-blast
+blasto-
+-ble
+blephar(o)-
+bor(o)-
+-bot
+botry(o)-
+brachi(o)-
+brachy-
+brady-
+branchio-
+Brit-
+brom(o)-
+bronch(o)-
+bryo-
+bucco-
+but-
+by-

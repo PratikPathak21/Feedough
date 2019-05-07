@@ -8,9 +8,23 @@ print("1. Food and Beverages")
 print("2. Technology")
 print("3. Finance")
 print("4.Manufacturing")
-print("5.Automotive 6.Beauty 7.Kids 8.Fashion 9.Social/Environment 10.Delivery/storage 11.IT/Software/SAAS 12.Restaurants & Food Service 13.Hospitality 14.Communication 15.Creative 16.Entertainment 17.Education 18.Banking/Finance 19.Health 20.Gaming 21.Tourism 22.Delivery Party / Clubbing")
+print("5.Automotive")
+print("6.Beauty")
+print("7.Kids")
+print("8.Fashion")
+print("9.Social/Environment")
+print("10.Delivery/storage 11.IT/Software/SAAS 12.Restaurants & Food Service 13.Hospitality 14.Communication 15.Creative 16.Entertainment 17.Education 18.Banking/Finance 19.Health 20.Gaming 21.Tourism 22.Delivery Party / Clubbing")
 
-arr=[['rew','ice','king','star','azy','asy','ol'],['stat','ster','tron','urgy','ware','scope'],['ezy','vest','raph','afe'],['ly','ol','io','xio','ing','age','ic','ick']]
+arr=[['rew','ice','king','star','azy','asy','ol'],
+['stat','ster','tron','urgy','ware','scop'],
+['1Accu','1Tap','up','ye','1bright','1cred','0easy','0ez','1crypt','1secur','tru','1TRUE','trust','one','ezy','vest','raph','afe'],
+['gear','gauge','tool','man','1Auto','one','ace'],
+['1pro','1auto','1mech','shop','1moto','1play','1exper','0flex','0go','ero'],
+['glam','shine','pure','express','studio','ious','ish','1perfect','box','1genic'],
+['0care','1club','0smart','1clever','plus','pal','bee','crate'],
+['art','style','tren','sharp','smooth','dept','ranch','wear','glam','1hello','you','love','society','club','look','mark','dresses'],
+['hand','help','1hello','steps','care','keeper','1keep','1protect','1watch'],
+['ly','io','xio','ing','age','ic','ick']]
 
 temp1=[]
 
@@ -145,54 +159,66 @@ def sylco(word) :
 
     # calculate the output
     return numVowels - disc + syls
+ansarr=[]
 
-def wordcombiner(arr,temp1):
-	ansarr=[]
-	for i in range(len(temp1)):
-		for j in range(len(arr)):
-			ansarr.append(arr[j]+temp1[i])
-	for i in range(0,len(arr),2):
-		ansarr.append(arr[j]+arr[j][-1])
-		ansarr.append(arr[j][0]+arr[j])
-		if(j+1<len(arr)):
-			ansarr.append(arr[j]+arr[j][-1]+arr[j][-1])
-			ansarr.append(arr[j][0]+arr[j][0]+arr[j])
-	# for j in range(26):
-	# 	for i in range(len(arr)):
-	# 		ansarr.append()
-	syllablecount=[]
-	for i in range(len(ansarr)):
-		syllablecount.append(sylco(ansarr[i]))
-	k=len(ansarr)
-	for i in range(k):
-		if(syllablecount[i]<=3):
-			for j in range(len(suffixes)):
-				ansarr.append(ansarr[i]+suffixes[j])
-			for j in range(len(prefixes)):
-				ansarr.append(prefixes[j]+ansarr[i])
 
-	shuffle(ansarr)
-	print(ansarr)
-	#print(*syllablecount)
+def wordcombiner(addarr,temp1):
 
-def generator(word,typ):
-	synonyms = [] 
-	hyponyms = []
-	final = []
-	temp1=arr[typ]+arr[-1]
-	for i,j in enumerate(wn.synsets(word)):
-		#print(i,j)
-		for I in list(chain(*[l.lemma_names() for l in j.hyponyms()])):
-  			hyponyms.append(I)
+    k=len(ansarr)
+    for i in range(0,len(addarr)):
+        ansarr.append(addarr[i]+addarr[i][-1])
+        ansarr.append(addarr[i][0]+addarr[i])
+    #suffix-prefix add
+    k=len(ansarr)
+    for i in range(len(temp1)):
+        for j in range(len(addarr)):
+            if(temp1[i][0]=='1'):
+                ansarr.append(temp1[i][1:]+addarr[j])
+            elif(temp1[i][0]=='0'):
+                ansarr.append(addarr[j]+temp1[i][1:])
+                ansarr.append(temp1[i]+addarr[j][1:])
+            else:
+                ansarr.append(addarr[j]+temp1[i])
+    
+    # for j in range(26):
+    # 	for i in range(len(arr)):
+    # 		ansarr.append()
+    syllablecount=[]
+    for i in range(len(ansarr)):
+        syllablecount.append(sylco(ansarr[i]))
 
-	for syn in wn.synsets(word):
-		for l in syn.lemmas():
-			synonyms.append(l.name()) 
+    k=len(ansarr)
+    for i in range(k):
+        if(syllablecount[i]<=3):
+        	for j in range(len(suffixes)):
+        		ansarr.append(ansarr[i]+suffixes[j])
+        	for j in range(len(prefixes)):
+        		ansarr.append(prefixes[j]+ansarr[i])
+
+    #print(*syllablecount)
+
+def generator(wordlist,typ):
+	
+    for word in wordlist:
+        synonyms = [] 
+        hyponyms = []
+        final = []
+        temp1=arr[typ]+arr[-1]
+        for i,j in enumerate(wn.synsets(word)):
+    		#print(i,j)
+            for I in list(chain(*[l.lemma_names() for l in j.hyponyms()])):
+                hyponyms.append(I)
+
+        for syn in wn.synsets(word):
+            for l in syn.lemmas():
+                synonyms.append(l.name()) 
         #if l.antonyms(): 
         #    antonyms.append(l.antonyms()[0].name()) 
-	p = list(set(hyponyms + synonyms))
-	wordcombiner(p,temp1)
-
+        p = list(set(hyponyms + synonyms))
+        #print(p)
+        wordcombiner(p,temp1)
+    shuffle(ansarr)
+    print(ansarr)
 
 	# temp1=arr[typ]+arr[-1]
 	# synonyms = [] 
@@ -217,8 +243,8 @@ def generator(word,typ):
 
 
 a=int(input())
-print("Enter a keyword : ")
-keyword=input()
+print("Enter keywords in a single line seperated by spaces: ")
+keyword=list(map(str,input().split()))
 
 generator(keyword,a-1)
 
